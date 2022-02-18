@@ -5,7 +5,6 @@
 - **💬 love discussing about code and coding challanges feel free to contact me**
 - **📫 [Linkedin](https://www.linkedin.com/in/hector-torres-346a041b8/),Email: hectorjte@gmail.com**
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=HectorTorresE.visitor-badge" alt="visitors"> 
 
 ## Stats
 [![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorTorresE&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/HectorTorresE/github-readme-stats)
