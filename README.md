@@ -2,7 +2,7 @@
 
 - **💻 I'm a Fullstack and C++ Developer**  
 - **💻 Technologies: React, HTML/CSS, Bootstrap, ASP.NET, SQL-SERVER**
-- **💬 love discussing about code and coding challanges feel free to contact me**
+- **💬 love discussing code and coding challenges feel free to contact me**
 - **📫 [Linkedin](https://www.linkedin.com/in/hector-torres-346a041b8/),Email: hectorjte@gmail.com**
 
 
